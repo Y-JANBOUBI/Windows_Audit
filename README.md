@@ -16,14 +16,14 @@ This project provides a PowerShell script for configuring Windows audit policies
 **Option 1: Clone the repository**
 
 ```powershell
-git clone https://github.com/yourusername/Windows-Audit-Policy.git
+git clone https://github.com/Y-JANBOUBI/Windows_Audit.git
 cd Windows-Audit-Policy/scripts
 ```
 
 **Option 2: Download the script directly**
 
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/windows-audit-config/main/WindowsAuditConfig.ps1" -OutFile "WindowsAuditConfig.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Y-JANBOUBI/Windows_Audit/refs/heads/main/WindowsAuditConfig.ps1" -OutFile "WindowsAuditConfig.ps1"
 ```
 ---
 
