@@ -28,6 +28,7 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/windows-a
 ---
 
 ## Usage
+<img width="1033" height="440" alt="image" src="https://github.com/user-attachments/assets/2c9c8444-e089-4324-a2d1-ce328b8bdedd" />
 
 ```powershell
 .\WindowsAuditConfig.ps1 -AuditProfile <Profile> [-WhatIf]
