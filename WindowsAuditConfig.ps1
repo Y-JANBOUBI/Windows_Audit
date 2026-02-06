@@ -6,11 +6,9 @@
     Configures comprehensive Windows audit policies for security monitoring, DFIR, and threat hunting.
     Enables detailed logging for detection of malicious activity, lateral movement, and persistence.
 .AUTHOR
-    Security Operations Team
+    Yasser_Janboubi
 .VERSION
     1.5
-.AUTHOR
-    Yasser_Janboubi
 .NOTES
     Run as Administrator on target systems
     Test in lab environment before production deployment
@@ -480,6 +478,7 @@ catch {
     exit 1
 }
 #endregion
+
 
 
 
